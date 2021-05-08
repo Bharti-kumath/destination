@@ -63,7 +63,7 @@ body {
 
   .main{
     background-color: #000000;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.9)), url("https://previews.123rf.com/images/pinkcandy/pinkcandy1704/pinkcandy170400060/77271260-collage-of-images-from-famous-location-in-rajasthan-india-with-the-word-india-on-white-background-in.jpg");
+	background-image: linear-gradient(rgba(0, 0, 0, 0.78), rgba(0, 0, 0, 0.78)), url("https://previews.123rf.com/images/pinkcandy/pinkcandy1704/pinkcandy170400060/77271260-collage-of-images-from-famous-location-in-rajasthan-india-with-the-word-india-on-white-background-in.jpg");
   background-position: center;
 	background-size: cover;
 	color: #ffffff;
